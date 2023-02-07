@@ -50,7 +50,7 @@ var config = {
         },
         {
             id: 'chpt-three',
-            alignment: 'full',
+            alignment: 'center',
             hidden: false,
             title: 'Richmond Post the Civil War',
             image: './plate5.jpg',
@@ -129,7 +129,7 @@ var config = {
         },
         {
             id: 'chpt-six',
-            alignment: 'full',
+            alignment: 'center',
             hidden: false,
             title: 'An oral history interview with Ida Ellett, December 13, 2011. Part of the Fulton Oral History Project; Interview by Dr. Caroline Morris, Transcription by Erin O’Donnovan',
             image: './fulton.jpg',
@@ -265,7 +265,7 @@ var config = {
         },
         {
             id: 'chpt-twelve',
-            alignment: 'full',
+            alignment: 'center',
             hidden: false,
             title: 'An oral history interview with Evelyn Bowman, November 29, 2011. Part of the Fulton Oral History Project: Interview by Dr. Caroline Morris, Transcription by Erin O’Donnovan',
             image: './fulton_1952.jpg',
