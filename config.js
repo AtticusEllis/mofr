@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/atticusjohnson/cl13lvar3002114mzd3vpqgoc',
-    accessToken: 'pk.eyJ1IjoiYXR0aWN1c2pvaG5zb24iLCJhIjoiY2wyNjdyZmZ6MmhsNjNjcGRicGh4dWxqaiJ9.1IW2RLVP09GRDjpTfkAhzA',
+    style: 'mapbox://styles/atticusjohnson/clvfiq9z102gw01phd2292a64',
+    accessToken: 'pk.eyJ1IjoiYXR0aWN1c2pvaG5zb24iLCJhIjoiY2t4ZzkyNzE0MnI4ZjJucWh6NGRwdDMzdSJ9.LpumZpdQvcie82N0qBjhhA',
     showMarkers: false,
     markerColor: '#3FB1CE',
     theme: 'dark',
